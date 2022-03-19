@@ -1,0 +1,44 @@
+Itemid,itemtype,itemname,itemcost,itemdetails,itemstatus
+20001,starter,Paneer Kalegi Tikka,325,Exotic kebeb mede up with cottage cheese,veg
+20002,starter,Dahi ke kebab,295,delightful mughlai preparation made of hung curd mixed with kadhai spices,veg
+20003,starter,malai brocoli,295,"brocoli marinated in hung curd, cashew and cheese paste",veg
+20004,starter,chapli kebeb,415,uterly delicious soft and moist minced mutton kebeb with a magical blend of spices,nonveg
+20005,starter,Bhatti da murgh,360,A royal delicacy from the kitchens of punjab,nonveg
+20006,starter,Dum ki machli,360,fish marinated in typical hyderabadi spices rolled in banana leaves,nonveg
+20007,salads,Fresh garden greens,150,,veg
+20008,salads,Greek salad,260,"bellpeppers, tomato, olives and feta cubes",veg
+20009,salads,Moroccan Chicken salad,295,"moroccan herbs marinated chicken with tomato, cucumber and lettuce",nonveg
+20010,salads,Chicken ceaser salad,295,"Iceberg lettuce, garlic croutons, roasted chicken",nonveg
+20011,soups,Tomato-de-basilica,150,,veg
+20012,soups,spicy noodle broth,150,,veg
+20013,soups,hot n sour/ Sweet Corn,150,,veg
+20014,soups,chicken shorba,175,,nonveg
+20015,soups,chicken creole,175,,nonveg
+20016,soups,hot n sour/ Sweet Corn,175,,nonveg
+20017,maincourse,Paneer Hyderabadi,350,paneer simmered delicately in a traditional Hyderabadi style,veg
+20018,maincourse,Paneer Tikka makhani,350,roasted paneer cooked in tomato gravy with dollops of butter,veg
+20019,maincourse,kumbh palak kofta,325,mushroom and cottage cheese dumplings cooked in spinach gravy,veg
+20020,maincourse,Patiyala Rogan Ghosht,430,Mutton cooked with traditional brown onions and cashew gravy,nonveg
+20021,maincourse,Murgh Pashtoon,380,"A hyderabad delicacy, chicken cooked in rich automatic gravy",nonveg
+20022,maincourse,murgh begam ki pasand,380,a royal delicacy from kitchen of mughals,nonveg
+20023,maincourse,dal tadka,195,,veg
+20024,maincourse,dal makhni,250,,veg
+20025,sides,plain curd,125,,veg
+20026,sides,papad,65,,veg
+20027,sides,masala papad,75,,veg
+20028,sides,choice of raita,125,,veg
+20029,rice,steamed rice,170,,veg
+20030,rice,veg pulaav,285,,veg
+20031,rice,jeera rice,250,,veg
+20032,rice,chicken dum biryani,375,,nonveg
+20033,rice,mutoon dum biryani,440,,nonveg
+20034,breads,Tandoori roti,50,"plain, butter",veg
+20035,breads,naan,60,"plain, butter, garlic",veg
+20036,breads,roomali roti,70,,veg
+20037,breads,stuffed paratha,75,"aloo, paneer, gobi",veg
+20038,breads,stuffed paratha,150,"chicken keema, egg",nonveg
+20039,desserts,kulfi,175,,veg
+20040,desserts,gulab jamun,150,,veg
+20041,desserts,fresh fruit platter,195,,veg
+20042,desserts,chocolate fudge brownie,250,,nonveg
+20043,desserts,choice of ice cream,185,,veg
